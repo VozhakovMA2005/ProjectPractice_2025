@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Главная on Сайт о проекте: Помощь людям с ОВЗ: сайт для оказания экстренной помощи</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Главная on Сайт о проекте: Помощь людям с ОВЗ: сайт для оказания экстренной помощи</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 20 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Партнерство с Мосволонтер</title>
+      <link>http://localhost:1313/blog/post3/</link>
+      <pubDate>Sat, 20 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/post3/</guid>
+      <description>&lt;p&gt;Заключено соглашение о сотрудничестве с организацией &amp;ldquo;Мосволонтер&amp;rdquo;. Это позволит привлечь больше волонтеров к помощи людям с ОВЗ.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Первый прототип</title>
+      <link>http://localhost:1313/blog/post2/</link>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/post2/</guid>
+      <description>&lt;p&gt;Готов базовый функционал сайта на Hugo. Реализованы главная страница и раздел &amp;ldquo;О проекте&amp;rdquo;. Начато тестирование доступности интерфейса.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Старт проекта</title>
+      <link>http://localhost:1313/blog/post1/</link>
+      <pubDate>Fri, 15 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/post1/</guid>
+      <description>&lt;p&gt;Сегодня мы официально запустили работу над платформой помощи людям с ОВЗ. Определены основные задачи, распределены роли в команде.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
