@@ -22,3 +22,11 @@ menu:
 
 ## Инструменты
 - [Web Accessibility Initiative (WAI)](https://www.w3.org/WAI) - рекомендации по доступности сайтов для людей с ОВЗ
+
+## Визуальные материалы и дизайн
+
+- [Figma проекта (макеты)](https://www.figma.com/design/6GBiugGWMh3fwpYS8xzTNl/Untitled?node-id=0-1&p=f&t=wnIDRHpBRuqskFXz-0)
+
+## Политика конфиденциальности
+
+- [Документ на сайте](https://help-nearby.netlify.app/)

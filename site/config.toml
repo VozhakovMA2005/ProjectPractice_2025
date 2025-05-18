@@ -1,3 +1,9 @@
 title = "Помощь людям с ОВЗ"
 baseURL = "https://ваш-сайт.ru/"
 languageCode = "ru-ru"
+theme = "ananke"
+
+
+[params]
+  background_image = "\resources\_gen\images\header.png"
+  description = "Цифровая платформа для помощи людям с ограниченными возможностями"

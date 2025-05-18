@@ -1,33 +1,61 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Журнал проекта on Сайт о проекте: Помощь людям с ОВЗ: сайт для оказания экстренной помощи</title>
+    <title>Журнал проекта on Сайт о проекте &#34;Помощь людям с ОВЗ: сайт для оказания экстренной помощи&#34;</title>
     <link>http://localhost:1313/blog/</link>
-    <description>Recent content in Журнал проекта on Сайт о проекте: Помощь людям с ОВЗ: сайт для оказания экстренной помощи</description>
+    <description>Recent content in Журнал проекта on Сайт о проекте &#34;Помощь людям с ОВЗ: сайт для оказания экстренной помощи&#34;</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 20 Apr 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Партнерство с Мосволонтер</title>
+      <title>Изменения в дизайне</title>
+      <link>http://localhost:1313/blog/post4/</link>
+      <pubDate>Sat, 20 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/post4/</guid>
+      <description>&lt;h2 id=&#34;05042025--улучшение-дизайна-сайта&#34;&gt;05.04.2025 — Улучшение дизайна сайта&lt;/h2&gt;</description>
+    </item>
+    <item>
+      <title>Инфосистемы Джет</title>
+      <link>http://localhost:1313/blog/post6/</link>
+      <pubDate>Sat, 20 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/post6/</guid>
+      <description>&lt;h2 id=&#34;23042025--встреча-с-представителями-компании-инфосистемы-джет&#34;&gt;23.04.2025 — Встреча с представителями компании &amp;ldquo;Инфосистемы Джет&amp;rdquo;&lt;/h2&gt;</description>
+    </item>
+    <item>
+      <title>Новые концепции</title>
       <link>http://localhost:1313/blog/post3/</link>
       <pubDate>Sat, 20 Apr 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/blog/post3/</guid>
-      <description>&lt;p&gt;Заключено соглашение о сотрудничестве с организацией &amp;ldquo;Мосволонтер&amp;rdquo;. Это позволит привлечь больше волонтеров к помощи людям с ОВЗ.&lt;/p&gt;</description>
+      <description>&lt;h2 id=&#34;14042025--дизайн-и-планирование&#34;&gt;14.04.2025 — Дизайн и планирование&lt;/h2&gt;</description>
     </item>
     <item>
-      <title>Первый прототип</title>
+      <title>Теперь для всех</title>
+      <link>http://localhost:1313/blog/post5/</link>
+      <pubDate>Sat, 20 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/post5/</guid>
+      <description>&lt;h2 id=&#34;25042025--запущена-первая-рабочая-версия&#34;&gt;25.04.2025 — Запущена первая рабочая версия&lt;/h2&gt;</description>
+    </item>
+    <item>
+      <title>Учебная практика</title>
+      <link>http://localhost:1313/blog/post7/</link>
+      <pubDate>Sat, 20 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/post7/</guid>
+      <description>&lt;h2 id=&#34;23042025--требования-и-примерный-алгоритм-внедрения-ids&#34;&gt;23.04.2025 — «Требования и примерный алгоритм внедрения IDS»&lt;/h2&gt;</description>
+    </item>
+    <item>
+      <title>Главный партнер</title>
       <link>http://localhost:1313/blog/post2/</link>
       <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/blog/post2/</guid>
-      <description>&lt;p&gt;Готов базовый функционал сайта на Hugo. Реализованы главная страница и раздел &amp;ldquo;О проекте&amp;rdquo;. Начато тестирование доступности интерфейса.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Встреча с представителями «Мосволонтёр»&lt;/p&gt;&#xA;&lt;h2 id=&#34;18042025--встреча-с-представителями-мосволонтёр&#34;&gt;18.04.2025 — Встреча с представителями «Мосволонтёр»&lt;/h2&gt;</description>
     </item>
     <item>
-      <title>Старт проекта</title>
+      <title>Новый функционал</title>
       <link>http://localhost:1313/blog/post1/</link>
       <pubDate>Fri, 15 Mar 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/blog/post1/</guid>
-      <description>&lt;p&gt;Сегодня мы официально запустили работу над платформой помощи людям с ОВЗ. Определены основные задачи, распределены роли в команде.&lt;/p&gt;</description>
+      <description>&lt;h2 id=&#34;05052025--интеграция-яндекскарт&#34;&gt;05.05.2025 — Интеграция Яндекс.Карт&lt;/h2&gt;</description>
     </item>
   </channel>
 </rss>
